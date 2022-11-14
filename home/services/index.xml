@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Muleza Mwiimbu &amp; Company</title>
-    <link>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/</link>
-    <description>Recent content in Services on Muleza Mwiimbu &amp; Company</description>
+    <title>     on Muleza Mwiimbu &amp; Company</title>
+    <link>https://example.com/home/services/</link>
+    <description>Recent content in      on Muleza Mwiimbu &amp; Company</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://6figureg.github.io/mulezamwiimbu.github.io//home/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://example.com/home/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Application development</title>
-      <link>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service3/</link>
+      <title>Client Focus</title>
+      <link>https://example.com/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>https://example.com/home/services/service3/</guid>
+      <description>We fully understand our client’s requirements, challenges, objectives and goals. We maximize the value of our services to our clients by safeguarding the security and confidentiality of their information.</description>
     </item>
     
     <item>
-      <title>Custom website design</title>
-      <link>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service1/</link>
+      <title>INTEGRITY</title>
+      <link>https://example.com/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>https://example.com/home/services/service2/</guid>
+      <description>&lt;p&gt;    &lt;/p&gt;
+&lt;p&gt;We are honest, trustworthy, respectful and ethical in our actions. We honor our commitments and are accountable for our actions, successes and failures.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>SEO &amp; SEM services</title>
-      <link>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service4/</link>
+      <title>INTEllECTUAL PRECISION</title>
+      <link>https://example.com/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>https://example.com/home/services/service1/</guid>
+      <description>&lt;p&gt;We are meticulous in our attention to detail to extract larger meaning from data and information to support objective evaluation, decision making and innovation.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Wordpress integration</title>
-      <link>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service2/</link>
+      <title>OUR CORE OBJECTIVE</title>
+      <link>https://example.com/home/services/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://6figureg.github.io/mulezamwiimbu.github.io//home/services/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <guid>https://example.com/home/services/service4/</guid>
+      <description>&lt;p&gt;Our objective is to give high quality legal and commercial advice through an efficiently managed professional practice that will facilitate our clients’ business dealings in Zambia and abroad.&lt;/p&gt;</description>
     </item>
     
   </channel>
