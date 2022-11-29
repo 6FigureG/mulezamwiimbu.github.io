@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Immigration Law",
-        "image": "images/istock-487152196-small.jpg",
+        "name": "LITIGATION/ ARBITRATION",
+        "image": "images/Arbitration.png",
         "url": "#",
         "items": [
             {
                 "name": "",
-                "url": "#"
+                "url": "/post"
             },
             {
                 "name": "",
@@ -21,7 +21,7 @@
     },
     {
         "id": 1,
-        "name": "Property & Conveyance",
+        "name": "CONVEYANCING AND REAL ESTATE",
         "image": "images/property_law.jpg",
         "url": "#",
         "items": [
@@ -53,8 +53,8 @@
     },
     {
         "id": 3,
-        "name": "Wills and Probate, Matrimonial Causes",
-        "image": "images/how-to-create-a-will.jpg",
+        "name": "MINING",
+        "image": "images/mining.jpg",
         "url": "#",
         "items": [
             {
@@ -69,7 +69,7 @@
     },
     {
         "id": 4,
-        "name": "Securities and Banking",
+        "name": "BANKING AND FINANCE",
         "image": "images/Banking-Law.jpg",
         "url": "#",
         "items": [
@@ -85,7 +85,7 @@
     },
     {
         "id": 5,
-        "name": "Company Incorporation and Advisory Services",
+        "name": "SECRETARIAL SERVICES AND COMPANY REGISTRATION",
         "image": "images/shakeyshakey.jpg",
         "url": "#",
         "items": [
